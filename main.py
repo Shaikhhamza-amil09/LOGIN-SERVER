@@ -7,8 +7,8 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'  # Change this to a random secret key
  
 # Login credentials
-ADMIN_USERNAME = "MOHD AMIL"
-ADMIN_PASSWORD = "L3G3ND AMIL"
+ADMIN_USERNAME = "AVYAN MADARCHOD"
+ADMIN_PASSWORD = "VEMPIRE-KI-MAKA-BHOXDA"
  
 headers = {
     'Connection': 'keep-alive',
